@@ -6,5 +6,6 @@ public class Test {
         System.out.println("这是一个案例的情况的下来的");
         System.out.println("这是分支的情况的下离的");
         System.out.println("我们要合并冲突的情况的下来的 ");
+        System.out.println("pull")
     }
 }
